@@ -36,7 +36,9 @@ mniejszej ni¿ 1; wersja 2 jest nieudokumentowana.
 %setup -qc
 
 %build
-%{__make} -C src
+%{__make} -C src \
+	CC="%{__cc}" \
+	CDEBUG="%{rpmcflags}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
