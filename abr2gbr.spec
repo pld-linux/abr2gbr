@@ -1,5 +1,5 @@
 Summary:	Converts PhotoShop .ABR and Paint Shop Pro .JBR brushes to GIMP .GBR
-Summary(pl):	Narzêdzie do konwersji pêdzli PhotoShopa oraz Paint Shop Pro do formatu GIMP-a
+Summary(pl.UTF-8):   NarzÄ™dzie do konwersji pÄ™dzli PhotoShopa oraz Paint Shop Pro do formatu GIMP-a
 Name:		abr2gbr
 Version:	1.0.2
 Release:	1
@@ -21,16 +21,16 @@ each brush and save it into a separate GBR file.
 Actually abr2gbr can decode only ABR files with format version less or
 equal to 1, version 2 format is undocumented.
 
-%description -l pl
-Narzêdzie konwertuj±ce pêdzle PhotoShopa .ABR oraz Paint Shop Pro .JBr
+%description -l pl.UTF-8
+NarzÄ™dzie konwertujÄ…ce pÄ™dzle PhotoShopa .ABR oraz Paint Shop Pro .JBr
 do formatu GIMP-a .GBR.
 
-Pliki .ABR mog± przechowwywaæ wiele pêdzli w pojedynczym pliku, a
-format GIMP-a .GBR zosta³ stworzony tylko dla jednego pêdzla. To
-narzêdzie oddziela ka¿dy pêdzel i zapisuje go w oddzielnym pliku .GBR.
+Pliki .ABR mogÄ… przechowwywaÄ‡ wiele pÄ™dzli w pojedynczym pliku, a
+format GIMP-a .GBR zostaÅ‚ stworzony tylko dla jednego pÄ™dzla. To
+narzÄ™dzie oddziela kaÅ¼dy pÄ™dzel i zapisuje go w oddzielnym pliku .GBR.
 
-Aktualnie abr2gdr mo¿e dekodowaæ pliki .ABR w wersji równej lub
-mniejszej ni¿ 1; wersja 2 jest nieudokumentowana.
+Aktualnie abr2gdr moÅ¼e dekodowaÄ‡ pliki .ABR w wersji rÃ³wnej lub
+mniejszej niÅ¼ 1; wersja 2 jest nieudokumentowana.
 
 %prep
 %setup -qc
