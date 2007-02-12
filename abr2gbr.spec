@@ -1,5 +1,5 @@
 Summary:	Converts PhotoShop .ABR and Paint Shop Pro .JBR brushes to GIMP .GBR
-Summary(pl.UTF-8):   Narzędzie do konwersji pędzli PhotoShopa oraz Paint Shop Pro do formatu GIMP-a
+Summary(pl.UTF-8):	Narzędzie do konwersji pędzli PhotoShopa oraz Paint Shop Pro do formatu GIMP-a
 Name:		abr2gbr
 Version:	1.0.2
 Release:	1
